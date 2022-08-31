@@ -1,2 +1,2 @@
 #!/bin/bash)
-echo "Your current working directory is:"$pwd
+echo "pwd"
